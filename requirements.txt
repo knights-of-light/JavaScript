@@ -1,0 +1,15 @@
+Webpack
+    Bebel
+    Scss
+    2 Modes
+        -   Dev
+            Dev Server, SourceMap, Eslint,Not Minified JA & CSS
+        -   Prod
+            Minified Code
+Git
+    Prodaction
+        2.0.0
+        0 ---------------
+    Development
+        2.0.2
+        1 -------------------
